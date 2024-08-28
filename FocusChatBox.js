@@ -2,6 +2,8 @@
 // @name         FocusChatBox
 // @version      2024-08-28
 // @description  click on chat box - hotkey
+// @updateURL      https://raw.githubusercontent.com/vsevkad/Scripts4Tempermonkey/main/FocusChatBox.js
+// @downloadURL    https://raw.githubusercontent.com/vsevkad/Scripts4Tempermonkey/main/FocusChatBox.js
 
 // @match  https://www.twitch.tv/*
 // @match else
