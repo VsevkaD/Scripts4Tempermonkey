@@ -32,12 +32,15 @@
             iframe.setAttribute("data-kinopoisk", filmId);
             iframe.allowFullscreen = true;
 
-            // Ширина в процентах от родительского блока
+            // Ширина
             iframe.style.width = "65%";
-            iframe.style.height = "auto"; // высота остаётся фиксированной или пропорциональной можно менять
-            iframe.style.aspectRatio = "16 / 9"; // сохраняем пропорции
+            iframe.style.height = "auto";
+            iframe.style.aspectRatio = "16 / 9";
             iframe.style.display = "block";
             iframe.style.margin = "10px auto";
+
+            iframe.style.border = "2px solid rgba(24,24,24,1)";
+            iframe.style.borderRadius = "16px";
 
             target.appendChild(iframe);
         }
