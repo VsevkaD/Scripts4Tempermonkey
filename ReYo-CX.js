@@ -4,8 +4,8 @@
 // @version        1.0.0
 // @description    Вставка плеера из CX в ReYo
 
-// @author         нейрослоп
 // @author         vsevkad
+// @author         нейрослоп
 
 // @updateURL      https://raw.githubusercontent.com/VsevkaD/Scripts4Tempermonkey/refs/heads/main/ReYo-CX.js
 // @downloadURL    https://raw.githubusercontent.com/VsevkaD/Scripts4Tempermonkey/refs/heads/main/ReYo-CX.js
