@@ -4,10 +4,12 @@
 // @version        1.0.0
 // @description    Вставка плеера из CX в ReYo
 
-// @updateURL      https://raw.githubusercontent.com/vsevkad/Scripts4Tempermonkey/main/scripts/FocusChatBox.js
-// @downloadURL    https://raw.githubusercontent.com/vsevkad/Scripts4Tempermonkey/main/scripts/FocusChatBox.js
+// @author         нейрослоп
+// @author         vsevkad
 
-// @author         спасибо нейрослопу от vsevkad
+// @updateURL      https://raw.githubusercontent.com/VsevkaD/Scripts4Tempermonkey/refs/heads/main/ReYo-CX.js
+// @downloadURL    https://raw.githubusercontent.com/VsevkaD/Scripts4Tempermonkey/refs/heads/main/ReYo-CX.js
+
 // @match          https://reyohoho.serv00.net/*
 // ==/UserScript==
 
