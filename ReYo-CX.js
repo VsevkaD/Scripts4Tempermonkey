@@ -32,7 +32,7 @@
             iframe.allowFullscreen = true;
 
             // Ширина в процентах от родительского блока
-            iframe.style.width = "30%";
+            iframe.style.width = "65%";
             iframe.style.height = "auto"; // высота остаётся фиксированной или пропорциональной можно менять
             iframe.style.aspectRatio = "16 / 9"; // сохраняем пропорции
             iframe.style.display = "block";
