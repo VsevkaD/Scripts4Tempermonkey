@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           ReYo+CX
 // @namespace      https://github.com/VsevkaD/Scripts4Tempermonkey
-// @version        11.02.26
+// @version        1.0.0
 // @description    Вставка плеера из CX в ReYo
 
 // @updateURL      https://raw.githubusercontent.com/vsevkad/Scripts4Tempermonkey/main/scripts/FocusChatBox.js
