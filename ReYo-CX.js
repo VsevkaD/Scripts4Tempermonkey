@@ -7,8 +7,8 @@
 // @author         vsevkad
 // @author         нейрослоп
 
-// @updateURL      https://raw.githubusercontent.com/VsevkaD/Scripts4Tempermonkey/refs/heads/main/ReYo-CX.js
-// @downloadURL    https://raw.githubusercontent.com/VsevkaD/Scripts4Tempermonkey/refs/heads/main/ReYo-CX.js
+// @updateURL      https://raw.githubusercontent.com/VsevkaD/Scripts4Tempermonkey/main/ReYo-CX.js
+// @downloadURL    https://raw.githubusercontent.com/VsevkaD/Scripts4Tempermonkey/main/ReYo-CX.js
 
 // @match          https://reyohoho.serv00.net/*
 // ==/UserScript==
