@@ -10,6 +10,7 @@
 // @updateURL      https://raw.githubusercontent.com/VsevkaD/Scripts4Tempermonkey/main/ReYo-CX.user.js
 // @downloadURL    https://raw.githubusercontent.com/VsevkaD/Scripts4Tempermonkey/main/ReYo-CX.user.js
 
+// @match          https://reyohoho.github.io/*
 // @match          https://reyohoho.serv00.net/*
 // ==/UserScript==
 
