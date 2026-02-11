@@ -42,7 +42,7 @@
             iframe.style.border = "2px solid rgba(24,24,24,1)";
             iframe.style.borderRadius = "16px";
 
-            target.appendChild(iframe);
+            target.insertAdjacentElement("afterend", iframe);
         }
 
         iframe.src = "https://ddbb.lol?id=" + filmId + "&n=0";
