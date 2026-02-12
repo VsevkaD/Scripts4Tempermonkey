@@ -8,4 +8,4 @@
 * <small>(CX Player in ReYo website)
 <a href="https://raw.githubusercontent.com/VsevkaD/Scripts4Tempermonkey/main/ReYo-CX.user.js"> ReYo-CX Install </a>
 
-С проблемами сюда -> <a href="https://github.com/VsevkaD/Scripts4Tempermonkey/issues"> ПРОБЛЕММЫ</a>
+С проблемами сюда -> <a href="https://github.com/VsevkaD/Scripts4Tempermonkey/issues"> ПРОБЛЕМЫ</a>
