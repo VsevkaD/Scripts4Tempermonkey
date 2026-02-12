@@ -2,7 +2,7 @@
 // @name           ReYoPlayer
 // @namespace      https://github.com/VsevkaD/Scripts4Tempermonkey
 // @version        1.0.1
-// @description    Скрипт возвращяет, немного другой, плеер на сайт ReYo
+// @description    Скрипт возвращает, немного другой, плеер на сайт ReYo
 
 // @author         vsevkad
 // @author         нейрослоп
