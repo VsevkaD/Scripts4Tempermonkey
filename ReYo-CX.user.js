@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name           ReYo+CX
+// @name           ReYoPlayer
 // @namespace      https://github.com/VsevkaD/Scripts4Tempermonkey
-// @version        1.0.0
-// @description    Вставка плеера из CX в ReYo
+// @version        1.0.1
+// @description    Скрипт возвращяет, немного другой, плеер на сайт ReYo
 
 // @author         vsevkad
 // @author         нейрослоп
@@ -13,6 +13,11 @@
 // @match          https://reyohoho.github.io/*
 // @match          https://reyohoho.serv00.net/*
 // ==/UserScript==
+
+/*
+Changelog:
+1.0.1 Изменил отображение для телефонов.
+*/
 
 (function() {
     'use strict';
@@ -33,7 +38,15 @@
             iframe.allowFullscreen = true;
 
             // Ширина
-            iframe.style.width = "65%";
+            if (window.innerWidth <= 768) // мобильная версия, <= 768px
+            {
+                iframe.style.width = "100%";
+            }
+            else
+            {
+                iframe.style.width = "65%";
+            }
+
             iframe.style.height = "auto";
             iframe.style.aspectRatio = "16 / 9";
             iframe.style.display = "block";
