@@ -11,12 +11,16 @@
 // @downloadURL    https://raw.githubusercontent.com/VsevkaD/Scripts4Tempermonkey/main/ReYo-CX.user.js
 
 // @match          https://reyohoho.github.io/*
+// @match          https://reyohoho.github.io/reyohoho/*
 // @match          https://reyohoho.serv00.net/*
+// @match          https://reyohoho.onrender.com/*
+
 // ==/UserScript==
 
 /*
 Changelog:
-1.0.1 Изменил отображение для телефонов.
+1.0.1 - Изменил отображение для телефонов.
+1.0.2 - Добавил адрес.
 */
 
 (function() {
