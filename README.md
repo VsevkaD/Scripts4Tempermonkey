@@ -6,9 +6,10 @@
 <a href="https://raw.githubusercontent.com/vsevkad/Scripts4Tempermonkey/main/scripts/FocusChatBox.user.js"> FocusChatBox Install </a>
 
 * <small>(CX Player in ReYo website | Плеер для ReYo)
-<a href="https://raw.githubusercontent.com/VsevkaD/Scripts4Tempermonkey/main/ReYo-CX.user.js"> ReYoPlayer Install (ReYo БЫЛ УДАЛЕН Sadge) </a>
+<a href="https://raw.githubusercontent.com/VsevkaD/Scripts4Tempermonkey/main/ReYo-CX.user.js"> ReYoPlayer Install (ReYo БЫЛ УДАЛЕН Sadge)(Появляються форки) </a>
 
 Если https://reyohoho.github.io/ плохо отображается, используйте зеркало https://reyohoho.serv00.net/ (работает на мобильных браузерах, поддерживающих расширения)
+Еще один - https://reyohoho.onrender.com/
 
 КАК УСТАНАВЛИВАТЬ:
 
