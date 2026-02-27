@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           ReYoPlayer
 // @namespace      https://github.com/VsevkaD/Scripts4Tempermonkey
-// @version        1.0.1
+// @version        1.0.2
 // @description    Скрипт возвращает, немного другой, плеер на сайт ReYo
 
 // @author         vsevkad
